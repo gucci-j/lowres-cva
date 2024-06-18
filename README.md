@@ -1,7 +1,7 @@
 Vocabulary Expansion for Low-resource Cross-lingual Transfer
 ===
 
-This is the official code for the paper titled "Vocabulary Expansion for Low-resource Cross-lingual Transfer." For reproduction, please refer to [Reproduction](#reproduction).
+This is the official code for the paper titled "[Vocabulary Expansion for Low-resource Cross-lingual Transfer](https://arxiv.org/abs/2406.11477)." For reproduction, please refer to [Reproduction](#reproduction).
 
 ## Requirements
 * Python 3.11.7 or later
@@ -62,3 +62,16 @@ All models will be available on the Hugging Face Model Hub.
 
 ## License
 [MIT License](./LICENSE)
+
+## Citation
+If you find this work useful, please cite the following:  
+```
+@article{yamaguchi2024vocabulary,
+  title={Vocabulary Expansion for Low-resource Cross-lingual Transfer}, 
+  author={Atsuki Yamaguchi and Aline Villavicencio and Nikolaos Aletras},
+  year={2024},
+  journal={arXiv},
+  volume={abs/2406.11477},
+  url={https://arxiv.org/abs/2406.11477}
+}
+```
